@@ -1,0 +1,13 @@
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".Main">
+
+
+    <item android:id="@+id/help"
+        android:title="Ayuda"
+        app:showAsAction="never" />
+
+
+</menu>
